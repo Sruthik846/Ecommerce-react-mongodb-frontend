@@ -1,0 +1,9 @@
+npm init
+npm install express
+npm install jsonwebtoken
+npm install mongoose
+npm install multer
+npm install cors
+
+Created index.js file in backend folder.
+node index.js
